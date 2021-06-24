@@ -4,6 +4,10 @@
 *.iws
 *.jar
 *.sw?
+*.mvn/**
+*.md
+mvnw
+mwnw.cmd
 *~
 .#*
 .*.md.html
